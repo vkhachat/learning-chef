@@ -1,4 +1,0 @@
-learning-chef
-=============
-
-Learning chef
